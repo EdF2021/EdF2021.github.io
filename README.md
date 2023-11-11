@@ -14,7 +14,7 @@ Dus voorlopig maar een beetje van alles en nog wat: Blog, 10Minuten Thema's, voo
 | **DOO** | **D**ata **O**ndersteund **O**nderwijs |
 | **MBO** | **M**iddelbaar **B**eroeps **O**nderwijs |
 
-Check alvast deze ![image](https://github.com/EdF2021/EdF2021.github.io/assets/84625097/920cb808-c39c-4814-805d-eff943cc8c1a)
+Check alvast deze 📬
 ## <font color="#000"><font color="darkorange">T</font>10 <font color="darkorange">M</font>inuten <font color="darkorange">T</font>hema's</font>
 ##### Een serie *Notebooks* [^1] waarin relevante AI/Data Science onderwerpen binnen het MBO onderwijs domein, beknopt en praktisch worden toegelicht. [Lees verder](https://app.noteable.io/published/513c4771-e741-432c-9b00-ffd39e9d846d/10Min_Thema_1_Voorspellen) 
 
