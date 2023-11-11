@@ -1,6 +1,6 @@
 # Slimmer werken met AI
 Informatief Platform over AI en Data Ondersteund Onderwijs waarbij ik nog zoekende ben naar de juiste vorm.
-Dus voorlopig maar een beetje van alles en nog wat: Blog, 10Minuten Thema's, voorbeeld code, Pilot Apps, Jupyter Notebook, Noteable, LLM-s, OpenAI, ChatGPT, Langchain, Streamlit, ...   
+Dus voorlopig maar een beetje van alles en nog wat: Blog, 10Minuten Thema's, voorbeeld code, Pilot Apps, Jupyter Notebook, Noteable, LLM-s, OpenAI, ChatGPT, Langchain, Streamlit, ...  
 
 | 🛠️ | 👷 |
 | :--- | :--- |
