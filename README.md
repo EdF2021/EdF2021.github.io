@@ -23,7 +23,7 @@ De 10 Minuten Thema's zijn gericht op managers, docenten, adviseurs en ondersteu
 
 🧑🏽‍🎓 Thema 1 is uit! 🏃 🚴‍♂️ 👨🏻‍💻 
 
-[## Voorspellen met Machine Learning<br> **<font color="darkorange">T10MT</font> deel 1**](https://app.noteable.io/published/513c4771-e741-432c-9b00-ffd39e9d846d/10Min_Thema_1_Voorspellen)
+## [Voorspellen met Machine Learning<br> **<font color="darkorange">T10MT</font> deel 1**](https://app.noteable.io/published/513c4771-e741-432c-9b00-ffd39e9d846d/10Min_Thema_1_Voorspellen)
 
 [^1]: Wil je meer weten over hoe een Notebook werkt ga dan naar [Uitleg Notebook](https://app.noteable.io/f/cce7345d-e0d8-4cd2-91f1-80f69d272957/What-can-you-do-in-a-Noteable-notebook.ipynb)   
 
