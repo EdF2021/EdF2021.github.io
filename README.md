@@ -1,5 +1,6 @@
+[MIT LICENSED](https://github.com/EdF2021/EdF2021.github.io/blob/1449d85990e6c3eda755276df711603116f640c5/LICENSE)
+
 # Slimmer werken met AI
-[LICENSE](LICENSE)
 Informatief Platform over AI en Data Ondersteund Onderwijs waarbij ik nog zoekende ben naar de juiste vorm.
 Dus voorlopig maar een beetje van alles en nog wat: Blog, 10Minuten Thema's, voorbeeld code, Pilot Apps, Jupyter Notebook, Noteable, LLM-s, OpenAI, ChatGPT, Langchain, Streamlit, ...  
 
