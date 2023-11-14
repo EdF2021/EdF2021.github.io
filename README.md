@@ -23,6 +23,8 @@ Dus voorlopig maar een beetje van alles en nog wat: Blog, 10Minuten Thema's, voo
 ## <font color="#000"><font color="darkorange">T</font>10 <font color="darkorange">M</font>inuten <font color="darkorange">T</font>hema's</font>
 ##### Een serie *Notebooks* [^1] waarin relevante AI/Data Science onderwerpen binnen het MBO onderwijs domein, beknopt en praktisch worden toegelicht.  
 
+> 💡 **TIP** Niet eerder met een Notebook gewerkt? Volg dan eerst deze korte [Crash Course Notebooks](https://app.noteable.io/f/c274bf10-d144-4ddd-86c9-cd726e94d2cc/Crashcourse-Notebooks.ipynb) waar je in korte tijd kennismaakt met doel en werking van een Notebook.
+> 
 De 10 Minuten Thema's zijn gericht op 👩‍🏫 👩‍⚖️ 👨‍🍳 medewerkers 👷‍♀️ 🧑‍⚕️ 🧑‍🏫 uit het MBO onderwijs  👩‍🔧 🧑‍💼 👮, en behandelen per thema, inhoudelijk een relevant onderwerp uit de AI/Data Science voor het 🧑‍🎓 MBO onderwijs. Het doel van een 10 Minuten Thema is om je in korte tijd, zo goed mogelijk op de hoogte te brengen van *de werking en betekenis van een bepaalde theorie, model, methode of techniek zoals die in de AI wordt gebruikt*.
 
 🚴‍♂️ Thema 1 is uit! 🏃 
