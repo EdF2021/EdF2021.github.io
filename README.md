@@ -25,12 +25,13 @@ Dus voorlopig een beetje van alles en nog wat over AI en Data Ondersteund onderw
 ## <font color="#000"><font color="darkorange">T</font>10 <font color="darkorange">M</font>inuten <font color="darkorange">T</font>hema's</font>
 ##### Een serie *Notebooks* waarin relevante AI/Data Science onderwerpen binnen het MBO onderwijs domein, beknopt en praktisch worden toegelicht.  
 
-> 💡 **TIP** Niet eerder met een Notebook gewerkt? Volg dan eerst deze korte [Crash Course Notebooks](https://app.noteable.io/published/9a4cf4b6-29f6-46e3-9383-dd23513113fe/Crashcourse-Notebooks) waar je in korte tijd kennismaakt met doel en werking van een Notebook. 
+> 💡 **TIP** Niet eerder met een Notebook gewerkt? Volg dan eerst deze korte [Crash Course Notebooks](https://app.noteable.io/published/9a4cf4b6-29f6-46e3-9383-dd23513113fe/Crashcourse-Notebooks) waar je na een paar minuten weet wat een Notebook is en hoe je ermee werkt. 
 
-De 10 Minuten Thema's zijn 👩‍🍳 👨‍🎓 bedoeld voor 👨‍🏫 👩‍ iedereen 👨‍🎓 die betrokken 💼 👨‍🔧 👮‍♀️ is 👨‍💻 👨‍ bij het MBO onderwijs. Per thema wordt inhoudelijk een relevant/ interessant onderwerp behandeld op het gebied van AI/Data Science. Omdat wij als MBO-ers geacht worden niet alleen te l....n maar ook te poetsen, zal een pragmatische aanpak worden gevolgd, waarbij er naast theorie ook voorbeeld "programma's" ( met broncode Python, SQL, ...) worden gepresenteerd, waarmee de liefhebber zelf wat kan gaan experimenteren.  
+De 10 Minuten Thema's zijn 👩‍🍳 👨‍🎓 bedoeld voor 👨‍🏫 👩‍ betrokken beslissers 👨‍🎓 die werken 💼 👨‍🔧 👮‍♀️ bij 👨‍💻 👨‍ een MBO Onderwijs Instelling. Per thema wordt inhoudelijk een relevant/ interessant onderwerp behandeld op het gebied van AI/Data Science. Omdat wij als MBO-ers geacht worden niet alleen te lullen maar ook te poetsen, gaan we pragmatische te werk. Naast theorie vind je werkende voorbeelden ( met bijbehorende broncode Python, SQL, ...), waarmee een liefhebber kan experimenteren. 
+> 💡 **TIP** Volg 10 Minuten Thema 1 waar we de prijzen van huizen in Melbourne gaan voorspellen, en vervang het Melbourne databestand door een Eduarte excel bestand en kijk of je VSV kan voorspellen (Spoiler alert: Ja dat kan, maar de foutmarge van de voorspellingen zijn te groot, waardoor de voorspellingen onbetrouwbaar zijn. Oplossingsrichting --> Ander soort model gebruiken      
 
 ----
-> 🎯 Het doel van een 10 Minuten Thema is om je in korte tijd, zo goed mogelijk op de hoogte te brengen van *de werking en betekenis van een bepaalde theorie, model, methode of techniek uit de AI/ Data Science wetenschap*.
+> 🎯 Het doel van een 10 Minuten Thema is om je in korte tijd, zo goed mogelijk op de hoogte te brengen over *de werking en betekenis van een bepaalde theorie, model, methode of techniek uit de AI/ Data Science wetenschap*.
 ----
 
 🥳 Thema 1 is uit! 🎈🎈 
