@@ -1,5 +1,5 @@
 [MIT LICENSED](https://github.com/EdF2021/EdF2021.github.io/blob/1449d85990e6c3eda755276df711603116f640c5/LICENSE)
-[CODE OF CONDUCT](CODE_OF_CONDUCT.md)
+[CODE OF CONDUCT](https://github.com/EdF2021/EdF2021.github.io/blob/5850f370e83accc9f55583e5ce67b6317daca121/CODE_OF_CONDUCT.md)
 
 # Slimmer werken met AI
 Informatief Platform over **AI** en **D**ata **O**ndersteund **O**nderwijs waarbij ik nog zoekende ben naar de juiste vorm.
