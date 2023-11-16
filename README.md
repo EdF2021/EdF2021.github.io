@@ -1,4 +1,5 @@
 [MIT LICENSED](https://github.com/EdF2021/EdF2021.github.io/blob/1449d85990e6c3eda755276df711603116f640c5/LICENSE)
+[CODE OF CONDUCT](code_of_conduct.md)
 
 # Slimmer werken met AI
 Informatief Platform over **AI** en **D**ata **O**ndersteund **O**nderwijs waarbij ik nog zoekende ben naar de juiste vorm.
@@ -40,9 +41,9 @@ Per thema behandel ik inhoudelijk een relevant/ interessant onderwerp op het AI/
 > 🎯 Het doel van een 10 Minuten Thema is om je in korte tijd, zo goed mogelijk op de hoogte te brengen over *de werking en betekenis van een bepaalde theorie, model, methode of techniek uit de AI/ Data Science wetenschap*.
 ----
 
-🥳 **Thema 1 is uit!** 🎈🎈 
+## 🥳 Thema 1 is uit!  🎈🎈  
 
-#### [Voorspellen met Machine Learning<br> **<font color="darkorange">T10MT</font> deel 1**](https://app.noteable.io/published/513c4771-e741-432c-9b00-ffd39e9d846d/10Min_Thema_1_Voorspellen)
+### [Voorspellen met Machine Learning<br> **<font color="darkorange">T10MT</font> deel 1**](https://app.noteable.io/published/513c4771-e741-432c-9b00-ffd39e9d846d/10Min_Thema_1_Voorspellen)
 
 [^1]: Wil je meer weten over hoe een Notebook werkt ga dan naar [Uitleg Notebook](https://app.noteable.io/f/cce7345d-e0d8-4cd2-91f1-80f69d272957/What-can-you-do-in-a-Noteable-notebook.ipynb)   
 
