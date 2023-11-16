@@ -2,13 +2,13 @@
 
 # Slimmer werken met AI
 Informatief Platform over **AI** en **D**ata **O**ndersteund **O**nderwijs waarbij ik nog zoekende ben naar de juiste vorm.
-Dus voorlopig een beetje van alles en nog wat over AI en Data Ondersteund onderwijs in het MBO onderwijs: Blogs, 10Minuten Thema's, Digitaal Leren, Cognitieve Leertheoriëen, Flexibel Onderwijs, Leven Lang Ontwikkelen,  21e eeuwse vaardigheden, 21e eeuwse Programmeer vaardigheden, Skills, Student Journey, Jupyter Notebook, LLM-s, OpenAI, ChatGPT, ...  
+Dus voorlopig een beetje van alles en nog wat over AI en Data Ondersteund onderwijs in het MBO: Blogs, 10Minuten Thema's, Digitaal Leren, Cognitieve Leertheoriëen, Flexibel Onderwijs, Leven Lang Ontwikkelen,  21e eeuwse vaardigheden, 21e eeuwse Programmeer vaardigheden, Skills, Student Journey, Jupyter Notebook, LLM-s, OpenAI, ChatGPT, ...  
 
 >| -🛠️- | -👷- |
 >| :--- | :--- |
 >| **Maintainer:** | [Ed. de Feber](mailto://e.defeber@horizoncollege.nl) |
 >|  | *Adviseur AI en Data Ondersteund Onderwijs* | 
->| **Last change:** | 14 november 2023 |
+>| **Last change:** | 16 november 2023 |
 
 <br>
 
@@ -33,7 +33,7 @@ Het uitleggen en demystificeren van complexe AI technologieen, op een begrijpeli
 
 Per thema behandel ik inhoudelijk een relevant/ interessant onderwerp op het AI/Data Science gebied. Omdat wij MBO-ers geacht worden niet alleen te lullen maar ook te poetsen, gaan we pragmatische te werk. Naast theorie vind je werkende voorbeelden ( met bijbehorende broncode Python, SQL, ...), waarmee je zelf kan experimenteren. Kan maar hoeft niet.
 
-> 💡 **TIP** Volg de Notebook **10 Minuten Thema 1** waarin ik laat zien hoe je de prijzen van huizen in Melbourne kan voorspellen met Machine Learning, en waar je kan experimenteren door het vervangen van het Melbourne databestand door bijv. een databestand die je uit Eduarte als excelbestand hebt gehaald.  Kijk of je met het geleerde zelf VSV kan voorspellen (Spoiler alert: Het kan min of meer, maar het gebruik van het beperkte voorbeeldmodel leveren dermate hoge foutmarges op dat je voorspellingen veel te onbetrouwbaar zullen zijn. Er is dus wel iets meer voor nodig, maar nogmaals het gaat om het idee.
+> 💡 **TIP** Volg de Notebook **10 Minuten Thema 1:** [Voorspellen met Machine Learning](https://app.noteable.io/published/513c4771-e741-432c-9b00-ffd39e9d846d/10Min_Thema_1_Voorspellen) waarin ik laat zien hoe je de prijzen van huizen in Melbourne kan voorspellen met Machine Learning, en waar je kan experimenteren door het vervangen van het Melbourne databestand door bijv. een databestand die je uit Eduarte als excelbestand hebt gehaald.  Kijk of je met het geleerde zelf VSV kan voorspellen (Spoiler alert: Het kan min of meer, maar het gebruik van het beperkte voorbeeldmodel leveren dermate hoge foutmarges op dat je voorspellingen veel te onbetrouwbaar zullen zijn. Er is dus wel iets meer voor nodig, maar nogmaals het gaat om het idee.
 
 
 ----
